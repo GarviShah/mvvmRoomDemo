@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyMVVMRoomDemo</string>
+    <string name="error_message_network">Network problem</string>
+    <string name="welcome">Welcome</string>
+    <string name="search">Search</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="check_internet">Please check your internet connection!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="ok">Ok</string>
+    <string name="map">Map</string>
+    <string name="profile">Profile</string>
+
+</resources>
